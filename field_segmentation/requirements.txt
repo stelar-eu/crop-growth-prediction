@@ -1,0 +1,5 @@
+stelar_spatiotemporal==0.0.5
+opencv-python
+tensorflow
+tensorflow_addons
+munch
